@@ -46,7 +46,7 @@ Customer churn prediction is a critical task for subscription-based businesses. 
 
 ##  R Console Execution Output
 
-![R Console Output](images/r_console_output.jpeg)
+![Image](https://github.com/user-attachments/assets/43e5e553-6670-45e6-98e3-d24b117a2db9)
 
 This confirms successful execution of the script and correct loading of required packages.
 
@@ -54,7 +54,8 @@ This confirms successful execution of the script and correct loading of required
 
 ### Confusion Matrix & Performance Metrics
 
-![Confusion Matrix Output](images/confusion_matrix.jpeg)
+![Image](https://github.com/user-attachments/assets/b70fa758-4ee5-4b6a-9a17-3a22a84379c8)
+
 
 **Key Metrics:**
 - Accuracy: **81.64%**
@@ -67,7 +68,7 @@ This confirms successful execution of the script and correct loading of required
 
 ## 📈 Feature Importance
 
-![Random Forest Feature Importance](images/feature_importance.jpeg)
+![Image](https://github.com/user-attachments/assets/45630e6a-2201-4df2-8156-0f3ffbfc16b9)
 
 The plot highlights that **Tenure Months, Total Charges, and Monthly Charges** are the most influential features affecting churn prediction.
 
@@ -88,4 +89,5 @@ install.packages(c("randomForest", "caret", "dplyr", "ggplot2"))
 5. Run the R script  
 
 ---
+
 
